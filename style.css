@@ -14,15 +14,16 @@ header {
     background-color: #BF8C2E;
     padding: 20px 0;
     text-align: center;
-    display: flex; /* Adicione esta linha */
-    align-items: center; /* Alinhar verticalmente os elementos */
-    justify-content: center; /* Alinhar horizontalmente os elementos */
+    display: flex; 
+    align-items: center;
+    justify-content: center;
 }
 
 .title {
     display: flex;
     align-items: center;
-    padding-right: 800px;
+    text-align: center;
+    padding-right: 350px;
 }
 
 header h1 {
@@ -111,13 +112,12 @@ form input[type="submit"] {
 }
 
 .imagem-princ {
-    padding-top: 100px;
-
+    text-align: center;
+    max-width: 100%;
 }
 
 .ods-image {
-    width: 100%;
-    max-width: 800px;
+    width: 75%;
     margin: 0 auto;
 }
 
