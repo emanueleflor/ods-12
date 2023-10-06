@@ -4,9 +4,6 @@
 
 ![preview](assets/preview.png)
 
-![preview](assets/preview3.png)
-
-![preview](assets/preview2.png)
 
 ##### Project built based on the Sustainable Development Goals (SDG), for the Front-End course.
 
@@ -15,6 +12,7 @@ Click [here](https://larissaiishikawa.github.io/ods-12//)  to access!
 ## Technologies and Tools
 - HTML
 - CSS
+- Javascript
 - Figma
 - Git & Github
 
