@@ -7,7 +7,7 @@
 
 ##### Project built based on the Sustainable Development Goals (SDG), for the Front-End course.
 
-Click [here](https://larissaiishikawa.github.io/ods-12//)  to access!
+Click [here](https://larissaiishikawa.github.io/ods-12/)  to access!
 
 ## Technologies and Tools
 - HTML
@@ -35,4 +35,4 @@ Please contact us! :D
 - [GitHub](https://github.com/MisaneDev) 
   
 
-###### Made with 💚 by [LARISSA ISHIKAWA,](https://github.com/larissaiishikawa) [EMANUELE FLOR DA ROSA &](https://github.com/emanueleflor) [MARIA LUISA PALACIOS](https://github.com/MisaneDev)
+###### Made with 🤍 by [LARISSA ISHIKAWA,](https://github.com/larissaiishikawa) [EMANUELE FLOR DA ROSA &](https://github.com/emanueleflor) [MARIA LUISA PALACIOS](https://github.com/MisaneDev)
