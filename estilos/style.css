@@ -48,10 +48,6 @@ nav a {
     min-height: 600px;
 }
 
-#saibamais {
-    color: #bf8c2e;
-}
-
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -85,15 +81,19 @@ nav a {
     margin-top: 10px;
 }
 
-button {
+#saibamais {
     background-color: #fff;
-    color: #bf8c2e;
+    width: 90px;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
     font-weight: bold;
     cursor: pointer;
     margin-top: 20px;
+}
+
+#saibamais a {
+    color: #bf8c2e;
 }
 
 /* Efeito vazado com risco em cima */
@@ -179,6 +179,8 @@ li {
 
 #sobre a {
     color: #bf8c2e;
+    padding: 0;
+    background-color: #fff;
 }
 
 .sobre-content img {
