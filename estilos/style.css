@@ -319,6 +319,7 @@ li {
     }
     .footer{
         font-size: 11px;
+        text-align: center;
     }
 }
 
@@ -332,7 +333,7 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Isso define a altura da página para ocupar toda a altura da tela */
+    height: 100vh;
 }
 
 #tituloO {
