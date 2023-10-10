@@ -10,7 +10,8 @@
 
 ##### Project built based on the Sustainable Development Goals (SDG), for the Front-End course.
 
-Click [here](https://larissaiishikawa.github.io/ods-12/)  to access!
+Click [here](https://larissaiishikawa.github.io/ods-12/)  to access our GitHub Pages Website!
+And click [here](https://github.com/larissaiishikawa/ods-12) to access our GitHub Repository ;)
 
 ## Technologies and Tools
 - HTML
