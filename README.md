@@ -2,10 +2,10 @@
 #### Front-End Project 1  
 
 
-![preview](imagens/preview1.png)
-![preview](imagens/preview2.png)
-![preview](imagens/preview3.png)
-![preview](imagens/preview4.png)
+![preview](imagens/preview1.jpg)
+![preview](imagens/preview2.jpg)
+![preview](imagens/preview3.jpg)
+![preview](imagens/preview4.jpg)
 
 
 ##### Project built based on the Sustainable Development Goals (SDG), for the Front-End course.
